@@ -1,0 +1,3 @@
+Copy the config.hpp.example to config.hpp, and modify the variables in the file to match that of your network.
+
+In the sketch itself configure the airports, and data pin of your arduino esp32 board.
